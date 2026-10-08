@@ -1,0 +1,7 @@
+{
+  "name": "Mystery Forest - The Missing Acorn",
+  "description": "초등 4~5학년을 위한 영어 동화 탐정 학습 앱 - 과거형(went, saw, found, helped)과 이야기 순서 익히기",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
